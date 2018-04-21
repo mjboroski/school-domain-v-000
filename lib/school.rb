@@ -7,8 +7,8 @@ class School
   end
 
   def add_student(name, grade)
-    :student[@name]=name
-    :student[@grade]=grade
+    @name=name
+    @grade=grade
   end
 
 
