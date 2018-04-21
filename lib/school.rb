@@ -10,6 +10,6 @@ class School
     :roster[:grade]=grade
   end
 
-  
-  
-end  
+
+
+end
