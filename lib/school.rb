@@ -23,5 +23,5 @@ class School
     end
     holder
   end
-  
+
 end
