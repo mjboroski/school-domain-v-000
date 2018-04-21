@@ -7,8 +7,8 @@ class School
   end
 
   def add_student(name, grade)
-    :roster[:name]=name
-    :roster[:grade]=grade
+    :roster[@name]=name
+    :roster[@grade]=grade
   end
 
 
